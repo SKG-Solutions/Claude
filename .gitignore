@@ -1,0 +1,5 @@
+# Finished films are usually too big for GitHub (100 MB per file). Keep them on the presenting laptop.
+the-25th-hour/films/*.mp4
+the-25th-hour/films/*.mov
+the-25th-hour/films/*.m4v
+.DS_Store
