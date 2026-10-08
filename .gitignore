@@ -3,3 +3,6 @@ the-25th-hour/films/*.mp4
 the-25th-hour/films/*.mov
 the-25th-hour/films/*.m4v
 .DS_Store
+
+# Python bytecode
+__pycache__/

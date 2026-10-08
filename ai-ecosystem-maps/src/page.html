@@ -1,0 +1,51 @@
+<title>AI Ecosystem Maps</title>
+<meta name="description" content="Two maps for business teams: what AI can produce across 21 kinds of work, and which model tier fits each task.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,500;1,600;1,700&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+/*STYLE*/
+</style>
+
+<header class="bar" id="bar">
+  <div class="bar-name"><span class="bar-mark" aria-hidden="true"></span>AI ecosystem maps</div>
+  <nav class="tabs" role="tablist" aria-label="Maps">
+    <button class="tab" role="tab" id="tab-map1" aria-controls="map1" aria-selected="true" data-view="map1"><span class="tab-n">1</span>AI by output and workflow</button>
+    <button class="tab" role="tab" id="tab-map2" aria-controls="map2" aria-selected="false" data-view="map2"><span class="tab-n">2</span>Choosing a model</button>
+    <button class="tab" role="tab" id="tab-notes" aria-controls="notes" aria-selected="false" data-view="notes">Sources and notes</button>
+  </nav>
+</header>
+
+<main>
+  <section class="view view-map" id="map1" role="tabpanel" aria-labelledby="tab-map1">
+    <div class="viewport" id="viewport" tabindex="0" aria-label="Map 1. Drag to pan, scroll or pinch to zoom, select a section to focus on it.">
+      <div class="world" id="world"></div>
+    </div>
+    <div class="map-tools" id="maptools">
+      <form class="find" id="find" role="search">
+        <label for="find-input" class="sr">Find a tool</label>
+        <input id="find-input" list="find-list" placeholder="Find a tool or company" autocomplete="off">
+        <datalist id="find-list"></datalist>
+        <button type="button" id="find-clear" class="find-clear" hidden aria-label="Clear search">Clear</button>
+      </form>
+      <div class="jump" id="jump" aria-label="Jump to a branch"></div>
+      <div class="zoom">
+        <button type="button" id="zoom-out" aria-label="Zoom out">&minus;</button>
+        <button type="button" id="zoom-fit" aria-label="Show the whole map">Fit</button>
+        <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
+      </div>
+    </div>
+    <p class="hint" id="hint">Drag to pan. Scroll or pinch to zoom. Select a section to focus on it, or a logo for details.</p>
+    <div class="pop" id="pop" role="dialog" aria-modal="false" hidden></div>
+  </section>
+
+  <section class="view view-page" id="map2" role="tabpanel" aria-labelledby="tab-map2" hidden></section>
+  <section class="view view-page" id="notes" role="tabpanel" aria-labelledby="tab-notes" hidden></section>
+</main>
+
+<script>
+const DATA = /*DATA*/;
+</script>
+<script>
+/*APP*/
+</script>

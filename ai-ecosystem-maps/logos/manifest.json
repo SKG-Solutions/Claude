@@ -1,0 +1,2056 @@
+{
+ "abbyy": {
+  "company": "ABBYY",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "ABBYY Vantage"
+  ]
+ },
+ "acrobat": {
+  "company": "Adobe",
+  "file": "logos/acrobat.svg",
+  "icon": "adobe-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Acrobat AI Assistant"
+  ],
+  "version": "1.2.15"
+ },
+ "adobeexpress": {
+  "company": "Adobe",
+  "file": "logos/adobeexpress.svg",
+  "icon": "adobe-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Adobe Express"
+  ],
+  "version": "1.2.15"
+ },
+ "ahaslides": {
+  "company": "AhaSlides",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "AhaSlides"
+  ]
+ },
+ "airtable": {
+  "company": "Airtable",
+  "file": "logos/airtable.svg",
+  "icon": "airtable",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Airtable Omni"
+  ],
+  "version": "1.2.15"
+ },
+ "aiva": {
+  "company": "AIVA Technologies",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "AIVA"
+  ]
+ },
+ "anyword": {
+  "company": "Anyword",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Anyword"
+  ]
+ },
+ "apollo": {
+  "company": "Apollo.io",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Apollo"
+  ]
+ },
+ "asana": {
+  "company": "Asana",
+  "file": "logos/asana.svg",
+  "icon": "asana-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Asana AI"
+  ],
+  "version": "1.2.15"
+ },
+ "askyourpdf": {
+  "company": "AskYourPDF",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "AskYourPDF"
+  ]
+ },
+ "assemblyai": {
+  "company": "AssemblyAI",
+  "file": "logos/assemblyai.svg",
+  "icon": "assemblyai-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "AssemblyAI"
+  ],
+  "version": "1.95.1"
+ },
+ "augment": {
+  "company": "Augment",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Augment"
+  ]
+ },
+ "avoma": {
+  "company": "Avoma",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Avoma"
+  ]
+ },
+ "aws": {
+  "company": "Amazon Web Services",
+  "file": "logos/aws.svg",
+  "icon": "aws",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Amazon Polly",
+   "Amazon Textract"
+  ],
+  "version": "1.2.15"
+ },
+ "azure": {
+  "company": "Microsoft",
+  "file": "logos/azure.svg",
+  "icon": "azure-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Azure AI Document Intelligence",
+   "Azure AI Speech"
+  ],
+  "version": "1.2.15"
+ },
+ "beatoven": {
+  "company": "Beatoven.ai",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Beatoven.ai"
+  ]
+ },
+ "beautifulai": {
+  "company": "Beautiful.ai",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Beautiful.ai"
+  ]
+ },
+ "bfl": {
+  "company": "Black Forest Labs",
+  "file": "logos/bfl.svg",
+  "icon": "bfl",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "FLUX"
+  ],
+  "version": "1.95.1"
+ },
+ "bizzabo": {
+  "company": "Bizzabo",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Bizzabo"
+  ]
+ },
+ "blueyonder": {
+  "company": "Blue Yonder",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Blue Yonder"
+  ]
+ },
+ "bolt": {
+  "company": "StackBlitz",
+  "file": "logos/bolt.svg",
+  "icon": "stackblitz",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Bolt.new"
+  ],
+  "upstream": "https://stackblitz.com",
+  "version": "16.34.0"
+ },
+ "brella": {
+  "company": "Brella",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Brella"
+  ]
+ },
+ "bubble": {
+  "company": "Bubble",
+  "file": "logos/bubble.svg",
+  "icon": "bubble-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Bubble AI"
+  ],
+  "version": "1.2.15"
+ },
+ "bytedance": {
+  "company": "ByteDance",
+  "file": "logos/bytedance.svg",
+  "icon": "bytedance-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Seedance"
+  ],
+  "version": "1.95.1"
+ },
+ "canva": {
+  "company": "Canva",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Canva",
+   "Canva Magic Studio",
+   "Canva Video"
+  ]
+ },
+ "capcut": {
+  "company": "ByteDance",
+  "file": "logos/capcut.svg",
+  "icon": "capcut",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "CapCut"
+  ],
+  "version": "1.95.1"
+ },
+ "captions": {
+  "company": "Mirage",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Captions"
+  ]
+ },
+ "cartesia": {
+  "company": "Cartesia",
+  "file": "logos/cartesia.svg",
+  "icon": "cartesia-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Cartesia"
+  ],
+  "version": "1.2.15"
+ },
+ "chatpdf": {
+  "company": "ChatPDF",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "ChatPDF"
+  ]
+ },
+ "claude": {
+  "company": "Anthropic",
+  "file": "logos/claude.svg",
+  "icon": "claude-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Claude",
+   "Claude Research",
+   "Claude file analysis"
+  ],
+  "version": "1.2.15"
+ },
+ "clay": {
+  "company": "Clay",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Clay"
+  ]
+ },
+ "clickup": {
+  "company": "ClickUp",
+  "file": "logos/clickup.svg",
+  "icon": "clickup-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "ClickUp Brain"
+  ],
+  "version": "1.2.15"
+ },
+ "clipdrop": {
+  "company": "Jasper",
+  "file": "logos/clipdrop.svg",
+  "icon": "clipdrop",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Clipdrop"
+  ],
+  "version": "1.95.1"
+ },
+ "connectedpapers": {
+  "company": "Connected Papers",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Connected Papers"
+  ]
+ },
+ "consensus": {
+  "company": "Consensus",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Consensus"
+  ]
+ },
+ "copilotstudio": {
+  "company": "Microsoft",
+  "file": "logos/copilotstudio.svg",
+  "icon": "copilot-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Copilot Studio"
+  ],
+  "version": "1.95.1"
+ },
+ "copyai": {
+  "company": "Fullcast",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Copy.ai"
+  ]
+ },
+ "creately": {
+  "company": "Creately",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Creately AI"
+  ]
+ },
+ "cvent": {
+  "company": "Cvent",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Cvent",
+   "CventIQ"
+  ]
+ },
+ "davinci": {
+  "company": "Blackmagic Design",
+  "file": "logos/davinci.svg",
+  "icon": "davinciresolve",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "DaVinci Resolve"
+  ],
+  "upstream": "https://www.blackmagicdesign.com/media/images/davinci-resolve-logo-square",
+  "version": "16.34.0"
+ },
+ "decktopus": {
+  "company": "Decktopus",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Decktopus"
+  ]
+ },
+ "deepgram": {
+  "company": "Deepgram",
+  "file": "logos/deepgram.svg",
+  "icon": "deepgram-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Deepgram"
+  ],
+  "version": "1.2.15"
+ },
+ "deepl": {
+  "company": "DeepL",
+  "file": "logos/deepl.svg",
+  "icon": "deepl-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "DeepL",
+   "DeepL Write"
+  ],
+  "version": "1.95.1"
+ },
+ "deepmind": {
+  "company": "Google DeepMind",
+  "file": "logos/deepmind.svg",
+  "icon": "deepmind-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Veo"
+  ],
+  "version": "1.95.1"
+ },
+ "descript": {
+  "company": "Descript",
+  "file": "logos/descript.svg",
+  "icon": "descript-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Descript"
+  ],
+  "version": "1.2.15"
+ },
+ "didero": {
+  "company": "Didero",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Didero"
+  ]
+ },
+ "docparser": {
+  "company": "Docparser",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Docparser"
+  ]
+ },
+ "documind": {
+  "company": "Documind",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Documind"
+  ]
+ },
+ "dust": {
+  "company": "Dust",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Dust"
+  ]
+ },
+ "edrawmind": {
+  "company": "Wondershare",
+  "file": "logos/edrawmind.svg",
+  "icon": "wondershare",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "EdrawMind AI"
+  ],
+  "upstream": "https://www.wondershare.com/news/media-assets.html",
+  "version": "16.34.0"
+ },
+ "elevenlabs": {
+  "company": "ElevenLabs",
+  "file": "logos/elevenlabs.svg",
+  "icon": "elevenlabs-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "ElevenLabs",
+   "ElevenLabs Music"
+  ],
+  "version": "1.2.15"
+ },
+ "elicit": {
+  "company": "Elicit",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Elicit"
+  ]
+ },
+ "eraser": {
+  "company": "Eraser",
+  "file": "logos/eraser.svg",
+  "icon": "eraser-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Eraser"
+  ],
+  "version": "1.2.15"
+ },
+ "eventbrite": {
+  "company": "Eventbrite",
+  "file": "logos/eventbrite.svg",
+  "icon": "eventbrite-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Eventbrite"
+  ],
+  "version": "1.2.15"
+ },
+ "eventmobi": {
+  "company": "EventMobi",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "EventMobi"
+  ]
+ },
+ "excel": {
+  "company": "Microsoft",
+  "file": "logos/excel.svg",
+  "icon": "copilot-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Excel Copilot"
+  ],
+  "version": "1.95.1"
+ },
+ "fathom": {
+  "company": "Fathom",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Fathom"
+  ]
+ },
+ "fellow": {
+  "company": "Fellow",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Fellow"
+  ]
+ },
+ "figma": {
+  "company": "Figma",
+  "file": "logos/figma.svg",
+  "icon": "figma",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "FigJam AI",
+   "Figma AI",
+   "Figma Make"
+  ],
+  "version": "1.2.15"
+ },
+ "fireflies": {
+  "company": "Fireflies.ai",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Fireflies.ai"
+  ]
+ },
+ "firefly": {
+  "company": "Adobe",
+  "file": "logos/firefly.svg",
+  "icon": "adobefirefly-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Adobe Firefly",
+   "Adobe Firefly Video",
+   "Firefly Generate Music"
+  ],
+  "version": "1.95.1"
+ },
+ "flexport": {
+  "company": "Flexport",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Flexport"
+  ]
+ },
+ "framer": {
+  "company": "Framer",
+  "file": "logos/framer.svg",
+  "icon": "framer",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Framer AI"
+  ],
+  "version": "1.2.15"
+ },
+ "freepik": {
+  "company": "Freepik",
+  "file": "logos/freepik.svg",
+  "icon": "freepik",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Freepik AI"
+  ],
+  "upstream": "https://commons.wikimedia.org/wiki/File:Freepik.svg",
+  "version": "16.34.0"
+ },
+ "gamma": {
+  "company": "Gamma",
+  "file": "logos/gamma.svg",
+  "icon": "Gamma_Wordmark_DeepOcean.svg",
+  "source": "Official file supplied to RAISE by the company",
+  "status": "official",
+  "tools": [
+   "Gamma"
+  ],
+  "version": null
+ },
+ "gemini": {
+  "company": "Google",
+  "file": "logos/gemini.svg",
+  "icon": "google-gemini-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Gemini",
+   "Gemini Deep Research",
+   "Nano Banana"
+  ],
+  "version": "1.2.15"
+ },
+ "glean": {
+  "company": "Glean",
+  "file": "logos/glean.svg",
+  "icon": "GLN_logo-wordmark-Primary.svg",
+  "source": "Official file supplied to RAISE by the company",
+  "status": "official",
+  "tools": [
+   "Glean"
+  ],
+  "version": null
+ },
+ "glide": {
+  "company": "Glide",
+  "file": "logos/glide.svg",
+  "icon": "glide",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Glide AI"
+  ],
+  "upstream": "https://brand.glide.page/dl/brand-assets",
+  "version": "16.34.0"
+ },
+ "gong": {
+  "company": "Gong",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Gong"
+  ]
+ },
+ "googlecloud": {
+  "company": "Google Cloud",
+  "file": "logos/googlecloud.svg",
+  "icon": "google-cloud",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Cloud Text-to-Speech",
+   "Document AI",
+   "Google Cloud supply chain"
+  ],
+  "version": "1.2.15"
+ },
+ "googlemeet": {
+  "company": "Google",
+  "file": "logos/googlemeet.svg",
+  "icon": "google-meet",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Google Meet Gemini"
+  ],
+  "version": "1.2.15"
+ },
+ "googlesheets": {
+  "company": "Google",
+  "file": "logos/googlesheets.svg",
+  "icon": "googlesheets",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Google Sheets Gemini"
+  ],
+  "upstream": "https://sheets.google.com",
+  "version": "16.34.0"
+ },
+ "googleslides": {
+  "company": "Google",
+  "file": "logos/googleslides.svg",
+  "icon": "googleslides",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Google Slides Gemini"
+  ],
+  "upstream": "https://slides.google.com",
+  "version": "16.34.0"
+ },
+ "grammarly": {
+  "company": "Superhuman",
+  "file": "logos/grammarly.svg",
+  "icon": "grammarly-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Grammarly"
+  ],
+  "version": "1.2.15"
+ },
+ "granola": {
+  "company": "Granola",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Granola"
+  ]
+ },
+ "grip": {
+  "company": "Grip",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Grip"
+  ]
+ },
+ "gumloop": {
+  "company": "Gumloop",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Gumloop"
+  ]
+ },
+ "guru": {
+  "company": "Guru",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Guru"
+  ]
+ },
+ "hebbia": {
+  "company": "Hebbia",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Hebbia"
+  ]
+ },
+ "hex": {
+  "company": "Hex",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Hex"
+  ]
+ },
+ "heygen": {
+  "company": "HeyGen",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "HeyGen"
+  ]
+ },
+ "hubspot": {
+  "company": "HubSpot",
+  "file": "logos/hubspot.svg",
+  "icon": "hubspot",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "HubSpot Breeze"
+  ],
+  "version": "1.2.15"
+ },
+ "humata": {
+  "company": "Humata",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Humata"
+  ]
+ },
+ "ideogram": {
+  "company": "Ideogram",
+  "file": "logos/ideogram.svg",
+  "icon": "ideogram",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Ideogram"
+  ],
+  "version": "1.95.1"
+ },
+ "ifs": {
+  "company": "IFS",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "IFS.ai Logistics"
+  ]
+ },
+ "interprefy": {
+  "company": "Interprefy",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Interprefy"
+  ]
+ },
+ "jasper": {
+  "company": "Jasper",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Jasper"
+  ]
+ },
+ "julius": {
+  "company": "Julius AI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Julius AI"
+  ]
+ },
+ "kinaxis": {
+  "company": "Kinaxis",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Kinaxis Maestro"
+  ]
+ },
+ "kittl": {
+  "company": "Kittl",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Kittl"
+  ]
+ },
+ "kling": {
+  "company": "Kuaishou",
+  "file": "logos/kling.svg",
+  "icon": "kling-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Kling AI"
+  ],
+  "version": "1.95.1"
+ },
+ "krea": {
+  "company": "Krea",
+  "file": "logos/krea.svg",
+  "icon": "krea",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Krea"
+  ],
+  "version": "1.95.1"
+ },
+ "kudo": {
+  "company": "KUDO",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "KUDO"
+  ]
+ },
+ "landr": {
+  "company": "LANDR",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "LANDR"
+  ]
+ },
+ "leonardo": {
+  "company": "Canva",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Leonardo.Ai"
+  ]
+ },
+ "lindy": {
+  "company": "Lindy",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Lindy"
+  ]
+ },
+ "litmaps": {
+  "company": "Litmaps",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Litmaps"
+  ]
+ },
+ "llamaindex": {
+  "company": "LlamaIndex",
+  "file": "logos/llamaindex.svg",
+  "icon": "llamaindex-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "LlamaParse"
+  ],
+  "version": "1.95.1"
+ },
+ "logiwa": {
+  "company": "Logiwa",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Logiwa IO"
+  ]
+ },
+ "loudly": {
+  "company": "Loudly",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Loudly"
+  ]
+ },
+ "lovable": {
+  "company": "Lovable",
+  "file": "logos/lovable.svg",
+  "icon": "lovable-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Lovable"
+  ],
+  "version": "1.2.15"
+ },
+ "lucid": {
+  "company": "Lucid Software",
+  "file": "logos/lucid.svg",
+  "icon": "lucid",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Lucidchart AI"
+  ],
+  "upstream": "https://lucid.co/brand",
+  "version": "16.34.0"
+ },
+ "luma": {
+  "company": "Luma AI",
+  "file": "logos/luma.svg",
+  "icon": "luma-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Luma Dream Machine"
+  ],
+  "version": "1.95.1"
+ },
+ "m365copilot": {
+  "company": "Microsoft",
+  "file": "logos/m365copilot.svg",
+  "icon": "copilot-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Copilot for Sales",
+   "Microsoft 365 Copilot"
+  ],
+  "version": "1.95.1"
+ },
+ "magicslides": {
+  "company": "MagicSlides",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "MagicSlides"
+  ]
+ },
+ "make": {
+  "company": "Make (Celonis)",
+  "file": "logos/make.svg",
+  "icon": "make-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Make"
+  ],
+  "version": "1.95.1"
+ },
+ "mapify": {
+  "company": "Xmind",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Mapify"
+  ]
+ },
+ "marketo": {
+  "company": "Adobe",
+  "file": "logos/marketo.svg",
+  "icon": "adobe-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Marketo Engage"
+  ],
+  "version": "1.2.15"
+ },
+ "meetgeek": {
+  "company": "MeetGeek",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "MeetGeek"
+  ]
+ },
+ "memento": {
+  "company": "Memento",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Memento"
+  ]
+ },
+ "mentimeter": {
+  "company": "Mentimeter",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Mentimeter"
+  ]
+ },
+ "mermaid": {
+  "company": "Mermaid Chart",
+  "file": "logos/mermaid.svg",
+  "icon": "mermaid",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Mermaid Chart"
+  ],
+  "version": "1.2.15"
+ },
+ "midjourney": {
+  "company": "Midjourney",
+  "file": "logos/midjourney.svg",
+  "icon": "midjourney",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Midjourney"
+  ],
+  "version": "1.2.15"
+ },
+ "minimax": {
+  "company": "MiniMax",
+  "file": "logos/minimax.svg",
+  "icon": "hailuo-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Hailuo AI"
+  ],
+  "version": "1.95.1"
+ },
+ "miro": {
+  "company": "Miro",
+  "file": "logos/miro.svg",
+  "icon": "miro-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Miro AI"
+  ],
+  "version": "1.2.15"
+ },
+ "mistral": {
+  "company": "Mistral AI",
+  "file": "logos/mistral.svg",
+  "icon": "mistral-ai-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Le Chat"
+  ],
+  "version": "1.2.15"
+ },
+ "moises": {
+  "company": "Moises",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Moises"
+  ]
+ },
+ "msdesigner": {
+  "company": "Microsoft",
+  "file": "logos/msdesigner.svg",
+  "icon": "microsoft-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Microsoft Designer"
+  ],
+  "version": "1.2.15"
+ },
+ "mubert": {
+  "company": "Mubert",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Mubert"
+  ]
+ },
+ "mural": {
+  "company": "Mural",
+  "file": "logos/mural.svg",
+  "icon": "mural",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Mural AI"
+  ],
+  "upstream": "https://www.mural.co/brand-assets",
+  "version": "16.34.0"
+ },
+ "murf": {
+  "company": "Murf",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Murf AI"
+  ]
+ },
+ "mutiny": {
+  "company": "Mutiny",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Mutiny"
+  ]
+ },
+ "n8n": {
+  "company": "n8n",
+  "file": "logos/n8n.svg",
+  "icon": "n8n-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "n8n"
+  ],
+  "version": "1.2.15"
+ },
+ "nanonets": {
+  "company": "Nanonets",
+  "file": "logos/nanonets.svg",
+  "icon": "nanonets",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Nanonets"
+  ],
+  "version": "1.2.15"
+ },
+ "napkin": {
+  "company": "Napkin AI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Napkin AI"
+  ]
+ },
+ "notebooklm": {
+  "company": "Google",
+  "file": "logos/notebooklm.svg",
+  "icon": "google-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Gemini Notebook"
+  ],
+  "version": "1.2.15"
+ },
+ "notion": {
+  "company": "Notion",
+  "file": "logos/notion.svg",
+  "icon": "notion-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Notion AI"
+  ],
+  "version": "1.2.15"
+ },
+ "nowadays": {
+  "company": "Nowadays",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Nowadays"
+  ]
+ },
+ "o9": {
+  "company": "o9 Solutions",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "o9 Digital Brain"
+  ]
+ },
+ "openai": {
+  "company": "OpenAI",
+  "file": "logos/openai.svg",
+  "icon": "openai-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "ChatGPT",
+   "ChatGPT Images",
+   "ChatGPT data analysis",
+   "ChatGPT deep research",
+   "OpenAI voice",
+   "Whisper"
+  ],
+  "version": "1.2.15"
+ },
+ "openalex": {
+  "company": "OurResearch",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "OpenAlex"
+  ]
+ },
+ "opusclip": {
+  "company": "OpusClip",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "OpusClip"
+  ]
+ },
+ "oracle": {
+  "company": "Oracle",
+  "file": "logos/oracle.svg",
+  "icon": "oracle",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Oracle Fusion Cloud SCM"
+  ],
+  "version": "1.2.15"
+ },
+ "otter": {
+  "company": "Otter.ai",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Otter.ai"
+  ]
+ },
+ "outreach": {
+  "company": "Outreach",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Outreach Kaia"
+  ]
+ },
+ "pallet": {
+  "company": "Pallet",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Pallet"
+  ]
+ },
+ "perplexity": {
+  "company": "Perplexity",
+  "file": "logos/perplexity.svg",
+  "icon": "perplexity-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Perplexity"
+  ],
+  "version": "1.2.15"
+ },
+ "photoroom": {
+  "company": "Photoroom",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Photoroom"
+  ]
+ },
+ "photoshop": {
+  "company": "Adobe",
+  "file": "logos/photoshop.svg",
+  "icon": "adobe-photoshop",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Adobe Photoshop"
+  ],
+  "version": "1.2.15"
+ },
+ "pigeonhole": {
+  "company": "PigeonLab",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Pigeonhole Live"
+  ]
+ },
+ "pika": {
+  "company": "Pika",
+  "file": "logos/pika.svg",
+  "icon": "pika",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Pika"
+  ],
+  "version": "1.95.1"
+ },
+ "pitch": {
+  "company": "Pitch",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Pitch"
+  ]
+ },
+ "pixverse": {
+  "company": "PixVerse",
+  "file": "logos/pixverse.svg",
+  "icon": "pixverse-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "PixVerse"
+  ],
+  "version": "1.95.1"
+ },
+ "playground": {
+  "company": "Playground",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Playground"
+  ]
+ },
+ "plusai": {
+  "company": "Plus AI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Plus AI"
+  ]
+ },
+ "powerbi": {
+  "company": "Microsoft",
+  "file": "logos/powerbi.svg",
+  "icon": "microsoft-power-bi",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Power BI Copilot"
+  ],
+  "version": "1.2.15"
+ },
+ "powerpoint": {
+  "company": "Microsoft",
+  "file": "logos/powerpoint.svg",
+  "icon": "copilot-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "PowerPoint Copilot"
+  ],
+  "version": "1.95.1"
+ },
+ "premiere": {
+  "company": "Adobe",
+  "file": "logos/premiere.svg",
+  "icon": "adobe-premiere",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Adobe Premiere Pro"
+  ],
+  "version": "1.2.15"
+ },
+ "presentationsai": {
+  "company": "Presentations.AI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Presentations.AI"
+  ]
+ },
+ "prezi": {
+  "company": "Prezi",
+  "file": "logos/prezi.svg",
+  "icon": "prezi",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Prezi AI"
+  ],
+  "upstream": "https://prezi.com/press/kit/",
+  "version": "16.34.0"
+ },
+ "project44": {
+  "company": "project44",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "project44"
+  ]
+ },
+ "rainfocus": {
+  "company": "RainFocus",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "RainFocus"
+  ]
+ },
+ "rask": {
+  "company": "Rask AI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Rask AI"
+  ]
+ },
+ "readai": {
+  "company": "Read AI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Read AI"
+  ]
+ },
+ "recraft": {
+  "company": "Recraft",
+  "file": "logos/recraft.svg",
+  "icon": "recraft",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Recraft"
+  ],
+  "version": "1.95.1"
+ },
+ "relevance": {
+  "company": "Relevance AI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Relevance AI"
+  ]
+ },
+ "removebg": {
+  "company": "Canva",
+  "file": "logos/removebg.svg",
+  "icon": "removedotbg",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "remove.bg"
+  ],
+  "upstream": "https://www.remove.bg",
+  "version": "16.34.0"
+ },
+ "replit": {
+  "company": "Replit",
+  "file": "logos/replit.svg",
+  "icon": "replit-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Replit"
+  ],
+  "version": "1.2.15"
+ },
+ "researchrabbit": {
+  "company": "Litmaps",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "ResearchRabbit"
+  ]
+ },
+ "resemble": {
+  "company": "Resemble AI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Resemble AI"
+  ]
+ },
+ "riverside": {
+  "company": "Riverside",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Riverside"
+  ]
+ },
+ "rossum": {
+  "company": "Rossum",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Rossum"
+  ]
+ },
+ "rows": {
+  "company": "Rows",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Rows"
+  ]
+ },
+ "runway": {
+  "company": "Runway",
+  "file": "logos/runway.svg",
+  "icon": "runway",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Runway"
+  ],
+  "version": "1.95.1"
+ },
+ "salesforce": {
+  "company": "Salesforce",
+  "file": "logos/salesforce.svg",
+  "icon": "salesforce",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Agentforce",
+   "Agentforce Sales"
+  ],
+  "version": "1.2.15"
+ },
+ "salesloft": {
+  "company": "Clari + Salesloft",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Salesloft Rhythm"
+  ]
+ },
+ "sana": {
+  "company": "Workday",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Sana"
+  ]
+ },
+ "sap": {
+  "company": "SAP",
+  "file": "logos/sap.svg",
+  "icon": "sap",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "SAP Joule"
+  ],
+  "version": "1.2.15"
+ },
+ "scispace": {
+  "company": "SciSpace",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "SciSpace"
+  ]
+ },
+ "scite": {
+  "company": "Research Solutions",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Scite"
+  ]
+ },
+ "semanticscholar": {
+  "company": "Ai2",
+  "file": "logos/semanticscholar.svg",
+  "icon": "semanticscholar",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Semantic Scholar"
+  ],
+  "upstream": "https://www.semanticscholar.org/about",
+  "version": "16.34.0"
+ },
+ "sembly": {
+  "company": "Sembly",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Sembly AI"
+  ]
+ },
+ "shipsy": {
+  "company": "Shipsy",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Shipsy"
+  ]
+ },
+ "sixsense": {
+  "company": "6sense",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "6sense"
+  ]
+ },
+ "slidesai": {
+  "company": "SlidesAI",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "SlidesAI"
+  ]
+ },
+ "slido": {
+  "company": "Cisco",
+  "file": "logos/slido.svg",
+  "icon": "cisco",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Slido"
+  ],
+  "upstream": "https://www.cisco.com",
+  "version": "16.34.0"
+ },
+ "slite": {
+  "company": "Slite",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Slite"
+  ]
+ },
+ "snapsight": {
+  "company": "Snapsight",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Snapsight"
+  ]
+ },
+ "softr": {
+  "company": "Softr",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Softr"
+  ]
+ },
+ "soundraw": {
+  "company": "Soundraw",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Soundraw"
+  ]
+ },
+ "stability": {
+  "company": "Stability AI",
+  "file": "logos/stability.svg",
+  "icon": "stability-ai-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Stable Audio",
+   "Stable Diffusion"
+  ],
+  "version": "1.2.15"
+ },
+ "stova": {
+  "company": "Stova",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Stova"
+  ]
+ },
+ "sudowrite": {
+  "company": "Sudowrite",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Sudowrite"
+  ]
+ },
+ "suno": {
+  "company": "Suno",
+  "file": "logos/suno.svg",
+  "icon": "suno",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Suno"
+  ],
+  "version": "1.95.1"
+ },
+ "swapcard": {
+  "company": "Swapcard",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Swapcard"
+  ]
+ },
+ "swoogo": {
+  "company": "Swoogo",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Swoogo"
+  ]
+ },
+ "synthesia": {
+  "company": "Synthesia",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Synthesia"
+  ]
+ },
+ "tableau": {
+  "company": "Salesforce",
+  "file": "logos/tableau.svg",
+  "icon": "tableau-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Tableau Next"
+  ],
+  "version": "1.2.15"
+ },
+ "teams": {
+  "company": "Microsoft",
+  "file": "logos/teams.svg",
+  "icon": "microsoft-teams",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Teams Copilot",
+   "Teams Interpreter"
+  ],
+  "version": "1.2.15"
+ },
+ "thoughtspot": {
+  "company": "ThoughtSpot",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "ThoughtSpot Spotter"
+  ]
+ },
+ "tldv": {
+  "company": "tl;dv",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "tl;dv"
+  ]
+ },
+ "udio": {
+  "company": "Udio",
+  "file": "logos/udio.svg",
+  "icon": "udio-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Udio"
+  ],
+  "version": "1.95.1"
+ },
+ "uipath": {
+  "company": "UiPath",
+  "file": "logos/uipath.svg",
+  "icon": "uipath",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "UiPath"
+  ],
+  "upstream": "https://www.uipath.com/newsroom",
+  "version": "16.34.0"
+ },
+ "uizard": {
+  "company": "Miro",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Uizard"
+  ]
+ },
+ "unstructured": {
+  "company": "Unstructured",
+  "file": "logos/unstructured.svg",
+  "icon": "unstructured-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Unstructured"
+  ],
+  "version": "1.95.1"
+ },
+ "v0": {
+  "company": "Vercel",
+  "file": "logos/v0.svg",
+  "icon": "v0",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "v0"
+  ],
+  "version": "1.2.15"
+ },
+ "veed": {
+  "company": "VEED",
+  "file": "logos/veed.svg",
+  "icon": "veed",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "VEED"
+  ],
+  "upstream": "https://www.veed.io",
+  "version": "16.34.0"
+ },
+ "vevox": {
+  "company": "Vevox",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Vevox"
+  ]
+ },
+ "vfairs": {
+  "company": "vFairs",
+  "file": "logos/vfairs.svg",
+  "icon": "vfairs",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "vFairs"
+  ],
+  "upstream": "https://www.vfairs.com",
+  "version": "16.34.0"
+ },
+ "vidu": {
+  "company": "ShengShu",
+  "file": "logos/vidu.svg",
+  "icon": "vidu-color",
+  "source": "LobeHub AI brand icons (@lobehub/icons-static-svg)",
+  "status": "library",
+  "tools": [
+   "Vidu"
+  ],
+  "version": "1.95.1"
+ },
+ "webex": {
+  "company": "Cisco",
+  "file": "logos/webex.svg",
+  "icon": "webex",
+  "source": "Simple Icons (simple-icons)",
+  "status": "library",
+  "tools": [
+   "Webex AI Assistant"
+  ],
+  "upstream": "https://github.com/momentum-design/momentum-ui/blob/970c5bec962a3f72e17e0b7ed69f2c38d298c405/icons-rebrand/svg/webex-helix-filled.svg",
+  "version": "16.34.0"
+ },
+ "webflow": {
+  "company": "Webflow",
+  "file": "logos/webflow.svg",
+  "icon": "webflow",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Webflow AI"
+  ],
+  "version": "1.2.15"
+ },
+ "whimsical": {
+  "company": "Whimsical",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Whimsical AI"
+  ]
+ },
+ "whova": {
+  "company": "Whova",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Whova"
+  ]
+ },
+ "wisecut": {
+  "company": "Wisecut",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Wisecut"
+  ]
+ },
+ "wix": {
+  "company": "Wix",
+  "file": "logos/wix.svg",
+  "icon": "wix",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Wix AI"
+  ],
+  "version": "1.2.15"
+ },
+ "wordly": {
+  "company": "Wordly",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Wordly"
+  ]
+ },
+ "workato": {
+  "company": "Workato",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Workato"
+  ]
+ },
+ "writer": {
+  "company": "Writer",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Writer"
+  ]
+ },
+ "xmind": {
+  "company": "Xmind",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Xmind AI"
+  ]
+ },
+ "zapier": {
+  "company": "Zapier",
+  "file": "logos/zapier.svg",
+  "icon": "zapier-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Zapier"
+  ],
+  "version": "1.2.15"
+ },
+ "zenus": {
+  "company": "Zenus",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "Zenus"
+  ]
+ },
+ "zoho": {
+  "company": "Zoho",
+  "file": "logos/zoho.svg",
+  "icon": "zoho",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Zoho Analytics Zia"
+  ],
+  "version": "1.2.15"
+ },
+ "zoom": {
+  "company": "Zoom",
+  "file": "logos/zoom.svg",
+  "icon": "zoom-icon",
+  "source": "SVG Logos collection (@iconify-json/logos)",
+  "status": "library",
+  "tools": [
+   "Zoom AI Companion"
+  ],
+  "version": "1.2.15"
+ },
+ "zoominfo": {
+  "company": "ZoomInfo",
+  "file": null,
+  "status": "missing",
+  "tools": [
+   "ZoomInfo Copilot"
+  ]
+ }
+}
